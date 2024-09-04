@@ -6,9 +6,6 @@ This is the splash screen of the app.
 <img src="./assets/splash.jpeg" width="250" height="450">
 </p>
 
-## Demo
-A link of demo 
-* https://drive.google.com/file/d/16BEg9oXVZRdyqiKe69u0MLiU0dII9e9t/view
 
 ## Tech Stacks
 
