@@ -18,17 +18,17 @@ This is the splash screen of the app.
 At first, User have 
 to allow the permission for camera in their mobile. 
 <p align="center">
-<img src="./assets/permission.jpeg" width="250" height="450">
+<img src="./assets/permission1.jpg" width="250" height="450">
 </p>
 </br>
 Here,Home Screen contains the screen and the flash options for detect the QR Code 
 <p align="center">
-<img src="./assets/scanner.jpeg" width="250" height ="450">
+<img src="./assets/qrcamera1.jpg" width="250" height ="450">
 </p>
 </br>
 Now,It has the also the options for Save the records of all the scans and also the options for remove it from database of our app.
 <p align="center">
-<img src="./assets/recent history.jpeg" width="250" height ="450">
+<img src="./assets/recent history1.jpg" width="250" height ="450">
 </p>
 </br>
 we can share ,copy on clipboard  the scan results also and market it as favourite option also ,for differentiate them.
@@ -38,12 +38,12 @@ we can share ,copy on clipboard  the scan results also and market it as favourit
 </br>
 here,we have also the options for delete all the scan results.
 <p align="center">
-<img src="./assets/delete.jpeg" width="250" height ="450">
+<img src="./assets/delete1.jpg" width="250" height ="450">
 </p>
 </br>
 There is another page for display all the favourite scan results to access  them easily.
 <p align="center">
-<img src="./assets/favourite.jpeg" width="250" height ="450">
+<img src="./assets/favourite1.jpg" width="250" height ="450">
 </p>
 </br>
 
