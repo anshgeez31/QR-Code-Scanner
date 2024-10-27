@@ -33,7 +33,7 @@ Now,It has the also the options for Save the records of all the scans and also t
 </br>
 we can share ,copy on clipboard  the scan results also and market it as favourite option also ,for differentiate them.
 <p align="center">
-<img src="./assets/alert dialog.jpeg" width="250" height ="450">
+<img src="./assets/scanned Record1.jpg" width="250" height ="450">
 </p>
 </br>
 here,we have also the options for delete all the scan results.
