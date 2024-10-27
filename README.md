@@ -3,7 +3,7 @@ This is a basic QR Scanner App which Scan UPI ID,other QR which have the persona
 ## Splash Screen
 This is the splash screen of the app.
 <p align="center">
-<img src="./assets/splash.jpeg" width="250" height="450">
+<img src="./assets/splash1.jpg" width="250" height="450">
 </p>
 
 
